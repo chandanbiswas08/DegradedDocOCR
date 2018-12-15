@@ -26,7 +26,7 @@ methodologies.
 ## Full paper
 [A Hybrid Deep Architecture for Robust Recognition of Text Lines of Degraded Printed Documents](https://ieeexplore.ieee.org/abstract/document/8545409)
 
-##Database descriptions
+## Database descriptions
 The present database (ISIDDI) consists of images of 535
 pages scanned from 15 old Bangla printed books. These
 books had been collected from three different sources, viz.
@@ -54,7 +54,10 @@ appearing in this entire database are respectively 26,663 and
 320. The division of the ISIDDI into the three sets has been
 done randomly at the initial stage and latter some adjustments
 have been made such that the character lexicon size of each
-set becomes the same, i.e., 320. This sample database will be
-available (https://www.isical.ac.in/∼ujjwal/download/database.
-html) free-of-cost for academic research purposes. A few
+set becomes the same, i.e., 320. This sample database is
+available (https://www.isical.ac.in/∼ujjwal/download/database.html)
+free-of-cost for academic research purposes. A few
 degraded document image samples have been shown in following figure.
+
+## Related and usefull link
+[OCR for Degraded Bangla Documents](https://github.com/xisnu/DegradedOCR)
