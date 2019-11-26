@@ -62,7 +62,7 @@ degraded document image samples have been shown in following figure.
 ![Alt text](DegradedSamplesCollage.jpg?raw=true "A few samples of document degradation present in
 ISIDDI database.")
 
-![Alt text](ICPR2018Poster.png?raw=true
+![Alt text](ICPR2018Poster.png?raw=true)
 
 ## Related and usefull link
 [OCR for Degraded Bangla Documents](https://github.com/xisnu/DegradedOCR)
