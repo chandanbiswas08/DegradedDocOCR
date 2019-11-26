@@ -59,9 +59,6 @@ available (https://www.isical.ac.in/∼ujjwal/download/database.html)
 free-of-cost for academic research purposes. A few
 degraded document image samples have been shown in following figure.
 
-![Alt text](DegradedSamplesCollage.jpg?raw=true "A few samples of document degradation present in
-ISIDDI database.")
-
 ![Alt text](ICPR2018Poster.png?raw=true)
 
 ## Related and usefull link
